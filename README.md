@@ -89,3 +89,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurjha3665&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
