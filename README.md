@@ -87,7 +87,7 @@
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurjha3665&hide_border=true&layout=compact" align="left" />  
-<img alt="github-snake" src="github-snake.svg" />
+
 
 <br/>  
 
